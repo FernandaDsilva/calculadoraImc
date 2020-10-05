@@ -14,7 +14,7 @@
 Aplicação web para calcular  o Índice de Massa Corpotal.
 
 <p align="center">
-  <img alt="calculadora Imc" src="/public/printela.png" width="100%">
+  <img alt="calculadora Imc" src="https://github.com/FernandaDsilva/calculadoraImc/blob/master/public/printela.PNG?raw=true" width="100%">
 </p>
 
 ## :memo: Licença
